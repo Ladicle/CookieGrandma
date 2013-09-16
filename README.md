@@ -1,7 +1,7 @@
 CookieGrandma
 =============
 
-Grasemonkey script for cookieclicker.
+Grasemonkey script for [cookieclicker](http://orteil.dashnet.org/cookieclicker/).
 
 
 feature
